@@ -1,4 +1,4 @@
-# coreruleset_map
+# lb_coreruleset_map
 A Loadbalancer.org specific map of the OWASP ModSecurity Core Rule Set
 
 This fork includes Loadbalancer.org specific documents which use our company fonts and have parts of the CRS that are irrelevant to us removed.
