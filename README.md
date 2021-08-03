@@ -1,5 +1,7 @@
 # coreruleset_map
-A map of the OWASP ModSecurity Core Rule Set
+A Loadbalancer.org specific map of the OWASP ModSecurity Core Rule Set
+
+This fork includes Loadbalancer.org specific documents which use our company fonts and have parts of the CRS that are irrelevant to us removed.
 
 The original Graphviz DOT files are available, as well as spiced-up SVG and PDF files.
 
